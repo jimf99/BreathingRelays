@@ -12,7 +12,7 @@ int valvePins[5]    = {5, 6, 7, 8, 9};
 // Delay Array is how long to wait for each cycle
 // valules are in Milliseconds
 // example: 4000 Milliseconds = 4 seconds
-// int DelayArray[8]   = {0, 4000, 450, 700, 4000, 450, 700, 1000};
+int DelayArray[8]   = {0, 4000, 450, 700, 4000, 450, 700, 1000};
  
 // Relay Triggers
 //===================
